@@ -10,3 +10,8 @@ The authors claim that the discrete logarithm problem can be transformed to the 
 
 ## Reproducability
 We are able to reproduce the author's primary claim. However, this version of the paper contains an error we document in our walkthrough.
+
+## Running the code
+```
+clear && gcc main.c -lm -o m.o && ./m.o 
+```
